@@ -20,3 +20,5 @@ ipython_config.py
 # MacOSX
 .DS_Store
 
+# don't want to push trained models
+saved-models/
